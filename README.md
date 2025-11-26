@@ -1,6 +1,7 @@
 # simple_bmi_calculator_app
 
 A new Flutter project.
+flutter sdk: V3.27.3
 
 ## Getting Started
 
